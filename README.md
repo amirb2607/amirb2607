@@ -75,9 +75,6 @@
 </div>
 
 ###
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)
 ---
 [![](https://visitcount.itsvg.in/api?id=amirb2607&icon=3&color=12)](https://visitcount.itsvg.in)
 
