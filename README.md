@@ -74,7 +74,7 @@
 </picture>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amirb2607&icon=3&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=amirb2607&icon=3&color=12&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **amirb2607/amirb2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
