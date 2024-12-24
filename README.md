@@ -65,15 +65,12 @@
 
 ###
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirb2607/amirb2607/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirb2607/amirb2607/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/amirb2607/amirb2607/output/github-snake.svg" />
 </picture>
 
----
 [![](https://visitcount.itsvg.in/api?id=amirb2607&icon=3&color=12&pretty=true)]()
 
 <!--
