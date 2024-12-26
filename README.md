@@ -1,5 +1,5 @@
 # Hello World! My name is Amir 👋:
-#### 👨🏼‍🎓 I'm a Computer Science Graduate from CUNY Brooklyn College.   
+#### 👨🏼‍🎓 I'm a B.S. Computer Science Graduate from CUNY Brooklyn College.   
 #### 🔭 I’m currently working on my [PortfolioHub](https://github.com/amirb2607/PortfolioHub) Mobile App.
 #### 🌱 I’m currently learning more on Expo Development Builds.
 
